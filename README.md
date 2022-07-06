@@ -1,13 +1,13 @@
 # PyBer_Analysis
 
-#### Analysis Overview:
+### Analysis Overview:
 This challenge purpose is to project a visualizaton for PyBer ridesharing data. To enhance the ride-sharing service in terms of avalability in neighbourhood of low income. 
 
-#### Resources: CSV File 
+##### Resources: CSV File 
 
-#### Software: Python 3.7, Anaconda, Jypyter Notebook 
+##### Software: Python 3.7, Anaconda, Jypyter Notebook 
 
-#### Multiple line chart explains ride sharing data within various city types
+##### Multiple line chart explains ride sharing data within various city types
 
 #### Fare by City Type 
 
