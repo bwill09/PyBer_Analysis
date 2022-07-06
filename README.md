@@ -23,5 +23,7 @@ The below image represents stats that the multiple line chart did not. For examp
 #### Concluson
 
 (a) Customers in Rural areas pay more and have less access to the ride-sharing service as opposed to Urban or Suburban cities. 
+
 (b) Urban cities makes the highest revenue for PyBer 
+
 (c) Drivers earn less in Urban cities due to less cost per ride
